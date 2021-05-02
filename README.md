@@ -1,8 +1,6 @@
 UnelmaCoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/unelmacoin-project/unelmacoin.svg?branch=master)](https://travis-ci.org/unelmacoin-project/unelmacoin)
-
 https://unelmacoin.org
 
 What is UnelmaCoin?
