@@ -1,7 +1,7 @@
 UnelmaCoin Core integration/staging tree
 =====================================
 
-https://unelmacoin.org
+https://unelmacoin.io
 
 What is UnelmaCoin?
 ----------------
@@ -13,7 +13,7 @@ out collectively by the network. UnelmaCoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the UnelmaCoin Core software, see [https://unelmacoin.org](https://unelmacoin.org).
+the UnelmaCoin Core software, see [https://unelmacoin.io](https://unelmacoin.org).
 
 License
 -------
